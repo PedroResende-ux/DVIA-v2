@@ -6,5 +6,5 @@ DVIA is already decrypted, so I do not need to use tools like Frida for this par
 
 The goal of this project is to learn static patching, which means modifying the app files on disk.
 
-I opened the workspace of the project 
+I opened the workspace of the project on xcode
 
